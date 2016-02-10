@@ -1,1 +1,3 @@
-Greasemonkey userscript, Automates website watchnaruto.tv. Automatically clicks to shippuden episodes, finds English dubbed button, and finally opens video as full screen. 
+A Greasemonkey userscript.
+
+Automatically clicks to shippuden episodes, finds & clicks the "english dubbed" button, and opens video as full screen. 
